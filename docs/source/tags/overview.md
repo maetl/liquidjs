@@ -8,10 +8,10 @@ There're a dozen of tags supported by LiquidJS, with all tags in [shopify/liquid
 
 Category | Purpose | Tags
 --- | --- | ---
-Iteration | iterate over a collection | for, cycle, tablerow
-Control Flow | control the execution branch of template rendering | if, unless, elsif, else, case, when
-Variable | define and alter variables | assign, increment, decrement
-File | include another template or extend a layout template | render, include, layout
-Language | temporarily disable LiquidJS syntax | raw, comment
+Iteration | iterate over a collection | [for](for.html), [cycle](cycle.html), [tablerow](tablerow.html)
+Control Flow | control the execution branch of template rendering | [if](if.html), [unless](unless.html), [elsif](elsif.html), [else](else.html), [case](case.html), [when](when.html)
+Variable | define and alter variables | [assign](assign.html), [increment](increment.html), [decrement](decrement.html)
+File | include another template or extend a layout template | [render](render.html), [include](include.html), [layout](layout.html)
+Language | temporarily disable LiquidJS syntax | [raw](raw.html), [comment](comment.html)
 
 [shopify/liquid]: https://github.com/Shopify/liquid
